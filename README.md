@@ -4,7 +4,7 @@
 
 ### Github Summary
 
-<div style="text-align:center>
+<div style="text-align:center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaandalau&theme=dark&hide_border=true" width=65%/>
 </div>
 
